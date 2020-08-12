@@ -1,0 +1,20 @@
+{
+  "name": "database_nodejs",
+  "version": "1.0.0",
+  "description": "connection between node and mongodb database",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "Rakesh.P.Rao",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.5.9"
+  },
+  "devDependencies": {}
+}
